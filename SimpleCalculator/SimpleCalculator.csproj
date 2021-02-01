@@ -107,8 +107,5 @@
   <ItemGroup>
     <Resource Include="picturetopeople.org-efa7d31582bc6eecaddc366bc8a84445f19a591641eb663f63.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Resource Include="—Pngtree—colorful rainbow dream background_985724.png" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
